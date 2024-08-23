@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Blog-Context
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React-based web application that displays a list of blogs fetched from an external API. The app allows users to navigate through different blogs by clicking on headings, tags, or categories. The project leverages the Context API for state management, providing an efficient way to handle and share data across components.
 
 ## Available Scripts
 
